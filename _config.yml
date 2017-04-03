@@ -27,3 +27,5 @@ markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
 # Blog settings
 permalink: /blog/:title
+
+theme: jekyll-theme-slate
