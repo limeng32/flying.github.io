@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Home",
+    "url": "http://www.chenmin.org",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "News",
+    "url": "/",
+    "icon": "fa-calendar",
+    "layout": "post"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Resume",
+    "url": "/resume",
+    "icon": "fa-graduation-cap",
+    "layout": "post"
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/chenmins",
+    "icon": "fa-github"
+  },
+  {
+    "text": "XML Feed",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+]

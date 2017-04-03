@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "fa-weixin",
+    "link": "/weixin"
+  },
+  {
+    "icon": "fa-qq",
+    "link": "/qq"
+  },
+  {
+    "icon": "fa-weibo",
+    "link": "http://weibo.com/chensoft"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/chenmins"
+  }
+]
